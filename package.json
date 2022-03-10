@@ -1,0 +1,19 @@
+{
+  "name": "maggi_mvc_package",
+  "version": "1.0.0",
+  "description": " Model, View, and Controller.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magendran001/maggi_mvc_controller.git"
+  },
+  "author": "Magendran (maggi)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magendran001/maggi_mvc_controller/issues"
+  },
+  "homepage": "https://github.com/Magendran001/maggi_mvc_controller#readme"
+}
